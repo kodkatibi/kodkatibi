@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kodkatibi/kodkatibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 I'm getting straight to the point:
 - I'm a YTU business graduate candidate, it's almost over.
 - I fell in love with software in 2014, and PHP has been the master of my heart since 2017.
@@ -20,4 +15,3 @@ I'm getting straight to the point:
 - I am married and I have one child.
 - I like to learn and try a new discipline.
 - I like to think. I think better while walking. I like long walks.
--->
