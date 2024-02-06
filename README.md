@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm getting straight to the point:
-- I'm a YTU business graduate candidate, it's almost over.
+- I graduated from YTU Business Administration.
 - I fell in love with software in 2014, and PHP has been the master of my heart since 2017.
 - It was Laravel that made me love PHP. (Thanks Taylor Otwell)
 - In addition, I wrote Yii and Core PHP.
